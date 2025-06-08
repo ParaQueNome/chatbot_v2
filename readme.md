@@ -40,7 +40,7 @@ AstroBot is an AI-powered chatbot specialized in astronomy, built as a universit
    python astrobot.py
    ```
 ## 🛠️ System Requirements
-
+```mermaid
 pie
     title System Requirements
     "Python 3.8+" : 30
@@ -48,14 +48,14 @@ pie
     "NVIDIA GPU (optional)" : 20
     "2GB Disk Space" : 15
     "Internet Connection" : 10
+```
+- Python 3.8+
 
-Python 3.8+
+- 4GB RAM (8GB recommended)
 
-4GB RAM (8GB recommended)
+- NVIDIA GPU with CUDA support (optional for faster inference)
 
-NVIDIA GPU with CUDA support (optional for faster inference)
-
-2GB free disk space (for model weights)
+- 2GB free disk space (for model weights)
 
 ## 📚 Sample Questions to Ask
 🔭 Try these astronomy topics:
