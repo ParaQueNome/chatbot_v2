@@ -22,21 +22,23 @@ AstroBot is an AI-powered chatbot specialized in astronomy, built as a universit
 
 ⚡ GPU acceleration support (via CUDA if available)
 
-🔧 Installation
-Clone the repository:
+## 🔧 Installation
 
-```bash
-git clone https://github.com/yourusername/astrobot.git
-cd astrobot
-```
-Install dependencies:
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/ParaQueNome/chatbot_v2.git
+   cd astrobot
+   ```
 
-bash
-pip install torch transformers tkinter
-Run the application:
+2. Install dependencies:
+   ```bash
+   pip install torch transformers tkinter
+   ```
 
-bash
-python astrobot.py
+3. Run the application:
+   ```bash
+   python astrobot.py
+   ```
 🛠️ System Requirements
 
 pie
