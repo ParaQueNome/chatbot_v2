@@ -60,15 +60,15 @@ pie
 ## 📚 Sample Questions to Ask
 🔭 Try these astronomy topics:
 
-"Explain black holes"
+- "Explain black holes"
 
-"What is the composition of Jupiter's atmosphere?"
+- "What is the composition of Jupiter's atmosphere?"
 
-"How do stars form?"
+- "How do stars form?"
 
-"Describe the Big Bang theory"
+- "Describe the Big Bang theory"
 
-"What are exoplanets?"
+- "What are exoplanets?"
 
 ## 📊 Project Structure
 ```mermaid
@@ -83,10 +83,10 @@ graph LR
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ##🙏 Acknowledgments
-NVIDIA for the pre-trained model
+- NVIDIA for the pre-trained model
 
-Hugging Face for the Transformers library
+- Hugging Face for the Transformers library
 
-Tkinter for the GUI framework
+- Tkinter for the GUI framework
 
 ## Professor Cleberson Eugenio for guidance
