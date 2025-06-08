@@ -82,7 +82,7 @@ graph LR
 ## 📜 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-##🙏 Acknowledgments
+### 🙏 Acknowledgments
 - NVIDIA for the pre-trained model
 
 - Hugging Face for the Transformers library
