@@ -39,7 +39,7 @@ AstroBot is an AI-powered chatbot specialized in astronomy, built as a universit
    ```bash
    python astrobot.py
    ```
-🛠️ System Requirements
+## 🛠️ System Requirements
 
 pie
     title System Requirements
@@ -57,7 +57,7 @@ NVIDIA GPU with CUDA support (optional for faster inference)
 
 2GB free disk space (for model weights)
 
-📚 Sample Questions to Ask
+## 📚 Sample Questions to Ask
 🔭 Try these astronomy topics:
 
 "Explain black holes"
@@ -70,7 +70,7 @@ NVIDIA GPU with CUDA support (optional for faster inference)
 
 "What are exoplanets?"
 
-📊 Project Structure
+## 📊 Project Structure
 ```mermaid
 graph LR
     astrobot.py -->|contains| GUI[Graphical Interface]
@@ -78,25 +78,15 @@ graph LR
     Model -->|requires| Tokenizer
     GUI -->|displays| Responses
 ```
-🌟 Future Enhancements
-Add astronomical image generation
 
-Integrate with NASA APIs for real-time data
-
-Include interactive star maps
-
-Add voice interaction capability
-
-Implement multilingual support
-
-📜 License
+## 📜 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-🙏 Acknowledgments
+##🙏 Acknowledgments
 NVIDIA for the pre-trained model
 
 Hugging Face for the Transformers library
 
 Tkinter for the GUI framework
 
-Professor Cleberson Eugenio for guidance
+## Professor Cleberson Eugenio for guidance
