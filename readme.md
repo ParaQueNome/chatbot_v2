@@ -24,9 +24,10 @@ AstroBot is an AI-powered chatbot specialized in astronomy, built as a universit
 🔧 Installation
 Clone the repository:
 
-bash
+```bash
 git clone https://github.com/yourusername/astrobot.git
 cd astrobot
+```
 Install dependencies:
 
 bash
