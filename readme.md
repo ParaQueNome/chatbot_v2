@@ -67,13 +67,13 @@ NVIDIA GPU with CUDA support (optional for faster inference)
 "What are exoplanets?"
 
 📊 Project Structure
-
+```mermaid
 graph LR
     astrobot.py -->|contains| GUI[Graphical Interface]
     astrobot.py -->|uses| Model[AI Model]
     Model -->|requires| Tokenizer
     GUI -->|displays| Responses
-
+```
 🌟 Future Enhancements
 Add astronomical image generation
 
