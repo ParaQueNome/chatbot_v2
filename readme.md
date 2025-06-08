@@ -1,6 +1,6 @@
 # 🌌 AstroBot - Astronomy Chatbot 🤖
 
-https://images.unsplash.com/photo-1462331940025-496dfbfc7564?w=1000&auto=format&fit=crop
+![Astronomy Banner](https://images.unsplash.com/photo-1462331940025-496dfbfc7564?w=1000&auto=format&fit=crop&raw=true)
 
 AstroBot is an AI-powered chatbot specialized in astronomy, built as a university project. It uses a pre-trained language model to answer questions about the universe, stars, planets, and cosmic phenomena.
 
